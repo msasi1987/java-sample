@@ -4,7 +4,7 @@ This article will walk you through building an application that launches with We
 
 Follow each step to build an app from scratch, or skip to the end get the source for this article. You can also use almost any existing Maven webapp project.
 
-## Prerequisites
+## Prerequisites CHECKING
 
 * Basic Java knowledge, including an installed version of the JVM and Maven.
 * Basic Git knowledge, including an installed version of Git.
